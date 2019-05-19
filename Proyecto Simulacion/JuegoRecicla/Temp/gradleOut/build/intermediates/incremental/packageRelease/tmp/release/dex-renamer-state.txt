@@ -1,0 +1,4 @@
+#Sun May 19 17:06:20 CDT 2019
+base.0=C\:\\Users\\Eduardo-G\\Desktop\\Proyecto Simulacion\\JuegoRecicla\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

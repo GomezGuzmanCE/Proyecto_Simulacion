@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Eduardo-G\\Desktop\\Proyecto Simulacion\\JuegoRecicla\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Eduardo-G\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\a8e1950f207f6a6d4d83d08b4b70e8e8\\res\\values-v19\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "148",
+                        "endColumns": "56",
+                        "endOffsets": "204"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        }
+    ]
+}
